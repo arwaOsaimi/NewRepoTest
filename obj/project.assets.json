@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/arwa/.nuget/packages/": {}
+    "/Users/mariamalamer/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arwa/Documents/GitHub/NewRepoTest/NewRepoTest.csproj",
+      "projectUniqueName": "/Users/mariamalamer/Documents/GitHub/NewRepoTest/NewRepoTest.csproj",
       "projectName": "NewRepoTest",
-      "projectPath": "/Users/arwa/Documents/GitHub/NewRepoTest/NewRepoTest.csproj",
-      "packagesPath": "/Users/arwa/.nuget/packages/",
-      "outputPath": "/Users/arwa/Documents/GitHub/NewRepoTest/obj/",
+      "projectPath": "/Users/mariamalamer/Documents/GitHub/NewRepoTest/NewRepoTest.csproj",
+      "packagesPath": "/Users/mariamalamer/.nuget/packages/",
+      "outputPath": "/Users/mariamalamer/Documents/GitHub/NewRepoTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/arwa/.nuget/NuGet/NuGet.Config"
+        "/Users/mariamalamer/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
